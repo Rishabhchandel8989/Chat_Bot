@@ -8,7 +8,7 @@ API_KEY = os.getenv("API_KEY")
 
 chat_model = ChatGoogleGenerativeAI(model="gemini-2.0-flash-exp", google_api_key=API_KEY)
 
-st.set_page_config(page_title="AI Heart Rate Monitor Assistant", layout="wide")
+st.set_page_config(page_title="Chat Bot Assistant", layout="wide")
 
 st.title("🐶 Pet recommendation")
 st.subheader("Analyzes data and provides insights")
