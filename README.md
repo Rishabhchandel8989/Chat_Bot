@@ -1,4 +1,4 @@
-# AI Heart Rate Monitor Assistant
+# Chat Bot Assistant
 
 This is a Streamlit-based chatbot application that uses the `langchain-google-genai` library to interact with the Gemini AI model. The chatbot provides pet recommendations and analyzes user-provided data or symptoms.
 
@@ -21,5 +21,4 @@ This is a Streamlit-based chatbot application that uses the `langchain-google-ge
 
 1. Clone the repository or download the project files:
    ```bash
-   git clone https://github.com/your-repo/ai-heart-rate-assistant.git
-   cd ai-heart-rate-assistant
+   
